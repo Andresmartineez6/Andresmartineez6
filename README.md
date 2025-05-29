@@ -26,23 +26,15 @@
 ## 📊 GitHub Stats y Contribuciones
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andresmartineez6&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Andresmartineez6&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andresmartineez6&theme=radical&hide_border=true" alt="GitHub Streak"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresmartineez6&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andresmartineez6&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresmartineez6&theme=midnight-purple&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
