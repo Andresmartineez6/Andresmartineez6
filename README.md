@@ -10,7 +10,7 @@
 
 - Desarrollador full-stack especializado en crear soluciones web de alto impacto.  
 - Fundador de **Cabletea S.L.**, llevando la tecnología a otro nivel en telecomunicaciones.  
-- Fanático de la automatización, la IA y todo lo que acelere el futuro.  
+- Fanático del desarrollo software, la informática y todo lo que acelere el futuro.  
 - Me encanta construir, liderar y escalar proyectos tecnológicos reales.
 
 ---
@@ -68,7 +68,6 @@
 Técnico Superior en Desarrollo de Aplicaciones Web  
 Cursos de Back-End con Node.js & Diseño Web Avanzado  
 Desarrollo con Python  
-Bachillerato Científico  
 Formación musical básica (sí, tengo ritmo también en el código)
 
 ---
@@ -87,7 +86,7 @@ Formación musical básica (sí, tengo ritmo también en el código)
 
 Porque no solo escribo código. Me importa que funcione. Que sea escalable. Que cargue rápido. Que se entienda. Que se mantenga.
 
-> *"La diferencia entre un proyecto terminado y un producto brillante está en los detalles."*
+> *"La diferencia entre un proyecto terminado y un producto perfecto está en los detalles."*
 
 ---
 
@@ -95,7 +94,7 @@ Porque no solo escribo código. Me importa que funcione. Que sea escalable. Que 
 
 🎵 La música (sí, sé leer partituras)  
 📚 Aprender como si el mundo dependiera de ello  
-📡 Crear empresas que resuelvan problemas reales  
+📡 Crear soluciones que resuelvan problemas reales  
 🏔️ Soñar a lo grande (y luego ejecutarlo)
 
 ---
