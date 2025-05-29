@@ -13,35 +13,13 @@
 - Fanático del desarrollo software, la informática y todo lo que acelere el futuro.  
 - Me encanta construir, liderar y escalar proyectos tecnológicos reales.
 
+---
 
 ## 🧰 Tech Stack
 
-### Lenguajes
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
-</p>
-
-### Herramientas & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,tailwind,postgres,prisma,docker,git,github,vite,figma,postman,swagger,react,nextjs" />
-</p>
-
-### Testing & Dev Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jest" />
-  <!-- Vitest, Husky, ESLint y Prettier no están en skillicons, pero pueden mantenerse como texto -->
-  <img src="https://img.shields.io/badge/Vitest-6E40C9?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Husky-5D3AFC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-</p>
-
-### Arquitectura y Buenas Prácticas
-<p align="center">
-  <img src="https://img.shields.io/badge/Arquitectura%20Hexagonal-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC-2C3E50?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOLID%20Principles-E34F26?style=for-the-badge&logo=abstract&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,nodejs,react,nextjs,express,postgres,tailwind,docker,figma,vite,git,github,prisma,postman,swagger" />
+</div>
 
 ---
 
