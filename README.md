@@ -1,24 +1,23 @@
-<h1 align="center">¡Hola, soy Andrés Lorente! 🚀</h1>
-<p align="center">🚀 Software Engineer | 💻 Full-Stack Developer | 🎯 CEO en <b>Cabletea S.L.</b></p>
+<h1 align="center">¡Hola, soy Andrés Lorente!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Transformo+ideas+en+soluciones+digitales.;C%C3%B3digo+limpio+%E2%9C%94%EF%B8%8F+Dise%C3%B1o+robusto+%E2%9C%94%EF%B8%8F+Escalabilidad+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Formo+ideas+en+soluciones+digitales.;Software+Engineer+%7C+CEO+de+Cabletea+S.L.;Full-Stack+Developer+apasionado+por+la+innovación." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌍 Sobre mí
+## 🧠 Sobre mí
 
-💬 Soy un apasionado del desarrollo web que convierte ideas en **proyectos reales**, estéticos y funcionales.  
-🚀 Actualmente CEO en [Cabletea S.L.](#), empresa de telecomunicaciones que apuesta por el futuro digital.  
-🔧 Me encanta fusionar backend y frontend en sistemas robustos, escalables y bien diseñados.  
-📚 Siempre aprendiendo nuevas herramientas, frameworks y formas de mejorar como profesional.
+- Desarrollador full-stack especializado en crear soluciones web de alto impacto.  
+- Fundador de **Cabletea S.L.**, llevando la tecnología a otro nivel en telecomunicaciones.  
+- Fanático de la automatización, la IA y todo lo que acelere el futuro.  
+- Me encanta construir, liderar y escalar proyectos tecnológicos reales.
 
 ---
 
-## 🧠 Stack tecnológico
+## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,nodejs,react,nextjs,express,postgres,tailwind,docker,figma,vite,git,github" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,nodejs,react,nextjs,express,postgres,tailwind,docker,figma,vite,git,github" />
 </div>
 
 ---
@@ -26,71 +25,78 @@
 ## 📊 GitHub Stats y Contribuciones
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Andresmartineez6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andresmartineez6&theme=tokyonight&hide_border=true" />
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Andresmartineez6&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andresmartineez6&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresmartineez6&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Andresmartineez6&theme=tokyo-night&hide_border=true" />
-</div>
+---
+
+## 💼 Experiencia Profesional
+
+- **CEO & Fundador – Cabletea S.L.**  
+  *Baza (Granada) – Desde Junio 2024*  
+  📡 Creación y gestión integral de empresa de telecomunicaciones.
+
+- **Desarrollador Web – WordPress / Divi**  
+  *ImpulsaTelecom S.L. – Veranos 2023 y 2024*  
+  🛠️ Desarrollo visual de sitios funcionales y optimizados.
+
+- **Programador Junior y Gestor de Proyectos**  
+  *BeeBit Solutions S.L. – Sep. a Dic. 2024*  
+  💻 Desarrollo backend + organización de flujo de trabajo ágil.
 
 ---
 
-## 💼 Experiencia
+## 🎓 Educación
 
-🔧 **ImpulsaTelecom S.L.** – *Desarrollador Web (WordPress)*  
-📍 Baza, Granada | 🗓️ Jul 2023 – Sep 2023 / Jul 2024 – Sep 2024
-
-🚀 **Cabletea S.L.** – *Fundador y CEO*  
-📍 Baza, Granada | 🗓️ Desde Jun 2024
-
-💻 **BeeBit Solutions S.L.** – *Programador Junior & Gestor de Proyectos*  
-📍 Granada | 🗓️ Sep 2024 – Dic 2024
+Técnico Superior en Desarrollo de Aplicaciones Web  
+Cursos de Back-End con Node.js & Diseño Web Avanzado  
+Desarrollo con Python  
+Bachillerato Científico  
+Formación musical básica (sí, tengo ritmo también en el código)
 
 ---
 
-## 🎓 Formación
+## 🧠 Principios que aplico
 
-- 💻 Técnico Superior en Desarrollo de Aplicaciones Web  
-- 🧠 Backend con Node.js (En curso)  
-- 🎨 Diseño y Desarrollo Web Avanzado (En curso)  
-- 🐍 Desarrollo con Python  
-- 🧮 Bachillerato Científico-Tecnológico  
-- 🎵 Enseñanzas Básicas de Música
-
----
-
-## 🧰 Buenas prácticas
-
-`Arquitectura Hexagonal` • `MVC` • `SOLID` • `Clean Code`  
-📦 CI/CD • 🌐 APIs REST • 🔐 Seguridad y Autenticación
+- `🧱 Arquitectura Hexagonal`
+- `📦 MVC`
+- `🧼 Clean Code`
+- `🧠 Principios SOLID`
+- `🛡️ Seguridad en el desarrollo`
 
 ---
 
-## 🚀 Proyectos Destacados
-
-- 🎯 Sistema de gestión de tareas con IA
-- 🌐 Webs WordPress avanzadas para clientes reales
-- 📦 Automatizaciones en `n8n` para empresas
-- 🧠 Backend modular con Express y Prisma
-- 📱 Frontend modernos con React, Next.js y Tailwind
-
----
-
-## ✉️ Contacto
+## 📬 ¿Conectamos?
 
 <div align="center">
-  <a href="mailto:andres@cabletea.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/AndresLorenteMartinez"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/andresmrtnz96"><img src="https://img.shields.io/badge/Twitter-@andresmrtnz96-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="mailto:andres@cabletea.com"><img src="https://img.shields.io/badge/📧%20Email-andres@cabletea.com-red?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/AndresLorenteMartinez"><img src="https://img.shields.io/badge/LinkedIn-@AndresLorenteMartinez-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/andresmrtnz96"><img src="https://img.shields.io/badge/Twitter-@andresmrtnz96-1DA1F2?style=for-the-badge&logo=twitter"></a>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andresmartineez6&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Andresmartineez6&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
-  <b>“Los buenos desarrolladores entregan código. Los grandes desarrolladores entregan valor.”</b>
+  <i>“Los buenos devs escriben código. Los grandes crean realidades.”</i> 💥
 </p>
+
