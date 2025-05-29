@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola, soy Andrés Lorente!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Formo+ideas+en+soluciones+digitales.;Software+Engineer+%7C+CEO+de+Cabletea+S.L.;Full-Stack+Developer+apasionado+por+la+innovación." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Formo+ideas+en+soluciones+digitales.;Software+Engineer+%7C+CEO+de+Cabletea+S.L.;Full-Stack+Developer+apasionado+por+la+innovación." alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -82,6 +83,23 @@ Formación musical básica (sí, tengo ritmo también en el código)
 
 ---
 
+## 🌍 ¿Por qué trabajar conmigo?
+
+Porque no solo escribo código. Me importa que funcione. Que sea escalable. Que cargue rápido. Que se entienda. Que se mantenga.
+
+> *"La diferencia entre un proyecto terminado y un producto brillante está en los detalles."*
+
+---
+
+## ☕ Bonus: Cosas que me gustan fuera del código
+
+🎵 La música (sí, sé leer partituras)  
+📚 Aprender como si el mundo dependiera de ello  
+📡 Crear empresas que resuelvan problemas reales  
+🏔️ Soñar a lo grande (y luego ejecutarlo)
+
+---
+
 ## 📬 ¿Conectamos?
 
 <div align="center">
@@ -97,6 +115,6 @@ Formación musical básica (sí, tengo ritmo también en el código)
 </p>
 
 <p align="center">
-  <i>“Los buenos devs escriben código. Los grandes crean realidades.”</i> 💥
+  <i>“Construyendo el futuro, commit a commit”</i> 💥
 </p>
 
