@@ -1,113 +1,96 @@
-<h1 align="center">¡Hola! Soy Andrés Lorente Martinez 👨‍💻</h1>
+<h1 align="center">¡Hola, soy Andrés Lorente! 🚀</h1>
+<p align="center">🚀 Software Engineer | 💻 Full-Stack Developer | 🎯 CEO en <b>Cabletea S.L.</b></p>
 <p align="center">
-  <b>Software Engineer</b> | Especializado en desarrollo web y aplicaciones <br>
-  🚀 Fundador de Cabletea S.L. | 💡 Apasionado por la tecnología | 🎯 Cazador de retos
-</p>
-
-<p align="center">
-  <a href="mailto:andres@cabletea.com">📧 andres@cabletea.com</a> •
-  <a href="tel:+34636608569">📞 +34 636 60 85 69</a> •
-  <a href="https://linkedin.com/in/AndresLorenteMartinez">🔗 LinkedIn</a> •
-  <a href="https://twitter.com/andresmrtnz96">🐦 Twitter</a> •
-  <a href="https://github.com/Andresmartineez6">🐙 GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Transformo+ideas+en+soluciones+digitales.;C%C3%B3digo+limpio+%E2%9C%94%EF%B8%8F+Dise%C3%B1o+robusto+%E2%9C%94%EF%B8%8F+Escalabilidad+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 ¿Quién soy?
+## 🌍 Sobre mí
 
-Soy **desarrollador full-stack**, emprendedor y eterno aprendiz. Me encanta convertir ideas en productos funcionales, bonitos y robustos.
-
-> 🧠 *Creo que la tecnología es una extensión del pensamiento humano. Por eso la respeto, la estudio y la hackeo para hacerla mejor.*
-
-Actualmente dirijo **Cabletea S.L.**, mi propia empresa de telecomunicaciones, mientras sigo desarrollando software y liderando proyectos digitales.
-
----
-
-## 💼 Experiencia Profesional
-
-- 🧱 **CEO & Fundador – Cabletea S.L.**  
-  *Baza (Granada) – Desde Junio 2024*  
-  Creación y expansión de una empresa de telecomunicaciones. Estrategia, técnica, atención al cliente y marketing. El todo-en-uno.
-
-- 🌐 **Desarrollador Web – WordPress / Divi**  
-  *ImpulsaTelecom S.L. – Veranos 2023 y 2024*  
-  Diseño y construcción de sitios web con alto rendimiento, adaptabilidad y enfoque UX/UI.
-
-- 👨‍💻 **Programador Junior y Gestor de Proyectos**  
-  *BeeBit Solutions S.L. – Sep. a Dic. 2024*  
-  Desarrollo de un gestor de proyectos con enfoque en eficiencia, escalabilidad y colaboración ágil.
+💬 Soy un apasionado del desarrollo web que convierte ideas en **proyectos reales**, estéticos y funcionales.  
+🚀 Actualmente CEO en [Cabletea S.L.](#), empresa de telecomunicaciones que apuesta por el futuro digital.  
+🔧 Me encanta fusionar backend y frontend en sistemas robustos, escalables y bien diseñados.  
+📚 Siempre aprendiendo nuevas herramientas, frameworks y formas de mejorar como profesional.
 
 ---
 
-## 🎓 Educación y Formación
+## 🧠 Stack tecnológico
 
-- 🎓 Técnico Superior en **Desarrollo de Aplicaciones Web**  
-- 🧠 Curso de **Desarrollo Back-End con Node.js** _(En curso)_  
-- 🎨 Curso Superior en **Diseño y Desarrollo Web** _(En curso)_  
-- 🐍 Formación especializada en **Python**  
-- 🧪 **Bachillerato Científico-Tecnológico**  
-- 🎵 Estudios básicos en **Música**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,nodejs,react,nextjs,express,postgres,tailwind,docker,figma,vite,git,github" alt="stack" />
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 📊 GitHub Stats y Contribuciones
 
-### Lenguajes:
-`JavaScript` `TypeScript` `PHP` `SQL`
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Andresmartineez6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andresmartineez6&theme=tokyonight&hide_border=true" />
+</div>
 
-### Frameworks & Tools:
-`Node.js` `Express` `Next.js` `TailwindCSS` `Prisma` `Vite` `WordPress` `Jest` `PostgreSQL` `Docker`
-
-### Dev Tools:
-`Git` `GitHub` `Figma` `Postman`
-
-### Arquitectura & Buenas prácticas:
-`MVC` `Arquitectura Hexagonal` `Principios SOLID`
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Andresmartineez6&theme=tokyo-night&hide_border=true" />
+</div>
 
 ---
 
-## 🧠 Soft Skills que marcan la diferencia
+## 💼 Experiencia
 
-- 🤝 Trabajo en equipo sin drama
-- 🧗‍♂️ Capacidad para escalar problemas (y montañas de bugs)
-- 🚀 Mentalidad de crecimiento constante
-- 🧩 Pensamiento analítico y estratégico
-- 📣 Comunicación clara y directa
-- ⚡ Alta disponibilidad y compromiso con los objetivos
+🔧 **ImpulsaTelecom S.L.** – *Desarrollador Web (WordPress)*  
+📍 Baza, Granada | 🗓️ Jul 2023 – Sep 2023 / Jul 2024 – Sep 2024
 
----
+🚀 **Cabletea S.L.** – *Fundador y CEO*  
+📍 Baza, Granada | 🗓️ Desde Jun 2024
 
-## 🌍 ¿Por qué trabajar conmigo?
-
-Porque no solo escribo código. Me importa que funcione. Que sea escalable. Que cargue rápido. Que se entienda. Que se mantenga.
-
-> *"La diferencia entre un proyecto terminado y un producto brillante está en los detalles."*
+💻 **BeeBit Solutions S.L.** – *Programador Junior & Gestor de Proyectos*  
+📍 Granada | 🗓️ Sep 2024 – Dic 2024
 
 ---
 
-## ☕ Bonus: Cosas que me gustan fuera del código
+## 🎓 Formación
 
-🎵 La música (sí, sé leer partituras)  
-📚 Aprender como si el mundo dependiera de ello  
-📡 Crear empresas que resuelvan problemas reales  
-🧠 Filosofar sobre IA y el futuro del desarrollo  
-🏔️ Soñar a lo grande (y luego ejecutarlo)
+- 💻 Técnico Superior en Desarrollo de Aplicaciones Web  
+- 🧠 Backend con Node.js (En curso)  
+- 🎨 Diseño y Desarrollo Web Avanzado (En curso)  
+- 🐍 Desarrollo con Python  
+- 🧮 Bachillerato Científico-Tecnológico  
+- 🎵 Enseñanzas Básicas de Música
 
 ---
 
-## 🚀 ¿Hablamos?
+## 🧰 Buenas prácticas
 
-Estoy abierto a **colaboraciones**, **proyectos**, **inversiones tecnológicas** o simplemente charlar sobre ideas locas que cambian el mundo.
+`Arquitectura Hexagonal` • `MVC` • `SOLID` • `Clean Code`  
+📦 CI/CD • 🌐 APIs REST • 🔐 Seguridad y Autenticación
+
+---
+
+## 🚀 Proyectos Destacados
+
+- 🎯 Sistema de gestión de tareas con IA
+- 🌐 Webs WordPress avanzadas para clientes reales
+- 📦 Automatizaciones en `n8n` para empresas
+- 🧠 Backend modular con Express y Prisma
+- 📱 Frontend modernos con React, Next.js y Tailwind
+
+---
+
+## ✉️ Contacto
+
+<div align="center">
+  <a href="mailto:andres@cabletea.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/AndresLorenteMartinez"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/andresmrtnz96"><img src="https://img.shields.io/badge/Twitter-@andresmrtnz96-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+</div>
+
+---
 
 <p align="center">
-  <a href="mailto:andres@cabletea.com">
-    <img src="https://img.shields.io/badge/📩%20Envíame%20un%20correo-informational?style=for-the-badge" alt="Email">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Andresmartineez6&color=blue" alt="profile views" />
 </p>
 
----
-
 <p align="center">
-  🛠️ *Construyendo el futuro, commit a commit.*
+  <b>“Los buenos desarrolladores entregan código. Los grandes desarrolladores entregan valor.”</b>
 </p>
