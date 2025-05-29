@@ -1,7 +1,8 @@
-<h1 align="center">¡Hola, soy Andrés Lorente!</h1>
+ <h1 align="center">¡Hola, soy Andrés Lorente!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Formo+ideas+en+soluciones+digitales.;Software+Engineer+%7C+CEO+de+Cabletea+S.L.;Full-Stack+Developer+apasionado+por+la+innovación." alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -12,45 +13,30 @@
 - Fanático del desarrollo software, la informática y todo lo que acelere el futuro.  
 - Me encanta construir, liderar y escalar proyectos tecnológicos reales.
 
----
 
 ## 🧰 Tech Stack
 
-### 🖥️ Lenguajes
+### Lenguajes
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
 </p>
 
-### 🛠️ Herramientas & Frameworks
+### Herramientas & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mermaid-0095D5?style=for-the-badge&logo=mermaid&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,tailwind,postgres,prisma,docker,git,github,vite,figma,postman,swagger,react,nextjs" />
 </p>
 
-### 🧪 Testing & Dev Tools
+### Testing & Dev Tools
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=jest" />
+  <!-- Vitest, Husky, ESLint y Prettier no están en skillicons, pero pueden mantenerse como texto -->
   <img src="https://img.shields.io/badge/Vitest-6E40C9?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Husky-5D3AFC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
 </p>
 
-### 📐 Arquitectura y Buenas Prácticas
+### Arquitectura y Buenas Prácticas
 <p align="center">
   <img src="https://img.shields.io/badge/Arquitectura%20Hexagonal-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC-2C3E50?style=for-the-badge&logo=codeigniter&logoColor=white" />
@@ -62,6 +48,7 @@
 ## 📊 GitHub Stats y Contribuciones
 
 <div align="center">
+
 <table>
   <tr>
     <td>
@@ -77,6 +64,7 @@
     </td>
   </tr>
 </table>
+
 </div>
 
 ---
@@ -106,6 +94,16 @@ Formación musical básica (sí, tengo ritmo también en el código)
 
 ---
 
+## 🧠 Principios que aplico
+
+- 🧱 Arquitectura Hexagonal
+- 📦 MVC
+- 🧼 Clean Code
+- 🧠 Principios SOLID
+- 🛡️ Seguridad en el desarrollo
+
+---
+
 ## 🌍 ¿Por qué trabajar conmigo?
 
 Porque no solo escribo código. Me importa que funcione. Que sea escalable. Que cargue rápido. Que se entienda. Que se mantenga.
@@ -130,3 +128,5 @@ Porque no solo escribo código. Me importa que funcione. Que sea escalable. Que 
   <a href="https://linkedin.com/in/AndresLorenteMartinez"><img src="https://img.shields.io/badge/LinkedIn-@AndresLorenteMartinez-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/andresmrtnz96"><img src="https://img.shields.io/badge/Twitter-@andresmrtnz96-1DA1F2?style=for-the-badge&logo=twitter"></a>
 </div>
+
+---
