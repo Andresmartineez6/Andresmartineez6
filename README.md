@@ -8,10 +8,10 @@
 
 ## 🧠 Sobre mí
 
-- Desarrollador full-stack especializado en crear soluciones web de alto impacto.  
-- Fundador de **Cabletea S.L.**, llevando la tecnología a otro nivel en telecomunicaciones.  
-- Fanático del desarrollo software, la informática y todo lo que acelere el futuro.  
-- Me encanta construir, liderar y escalar proyectos tecnológicos reales.
+- Desarrollador especializado en crear soluciones web.  
+- Fundador de **Cabletea S.L.**.  
+- Fanático del desarrollo software, la informática y la técnologia.  
+- Me encanta construir, liderar y escalar proyectos.
 
 ---
 
@@ -40,23 +40,22 @@
 
 - **CEO & Fundador – Cabletea S.L.**  
   *Baza (Granada) – Desde Junio 2024*  
-  📡 Creación y gestión integral de empresa de telecomunicaciones.
+  📡 Creación y gestión de mi empresa de telecomunicaciones.
 
 - **Desarrollador Web – WordPress / Divi**  
   *ImpulsaTelecom S.L. – Veranos 2023 y 2024*  
-  🛠️ Desarrollo visual de sitios funcionales y optimizados.
+  🛠️ Desarrollo de sitios web.
 
-- **Programador Junior y Gestor de Proyectos**  
+- **Programador Junior**  
   *BeeBit Solutions S.L. – Sep. a Dic. 2024*  
-  💻 Desarrollo backend + organización de flujo de trabajo ágil.
+  💻 Desarrollo de un gestor de Proyectos.
 
 ---
 
 ## 🎓 Educación
 
 Técnico Superior en Desarrollo de Aplicaciones Web  
-Cursos de Back-End con Node.js & Diseño Web Avanzado  
-Desarrollo con Python  
+Curso Back-End con Node.js & Diseño Web Avanzado  
 Formación musical básica (sí, tengo ritmo también en el código)
 
 ---
@@ -73,7 +72,7 @@ Formación musical básica (sí, tengo ritmo también en el código)
 
 ## 🌍 ¿Por qué trabajar conmigo?
 
-Porque no solo escribo código. Me importa que funcione. Que sea escalable. Que cargue rápido. Que se entienda. Que se mantenga.
+No solo escribo código. Me importa que funcione. Que sea escalable. Que cargue rápido. Que se entienda. Que se mantenga.
 
 > *"La diferencia entre un proyecto terminado y un producto perfecto está en los detalles."*
 
@@ -81,10 +80,10 @@ Porque no solo escribo código. Me importa que funcione. Que sea escalable. Que 
 
 ## ☕ Bonus: Cosas que me gustan fuera del código
 
-🎵 La música (sí, sé leer partituras)  
-📚 Aprender como si el mundo dependiera de ello  
-📡 Crear soluciones que resuelvan problemas reales  
-🏔️ Soñar a lo grande (y luego ejecutarlo)
+🎵 La música(sí, sé leer partituras).  
+📚 Aprender constantemente y estar al dia de nuevas tecnologias.
+📡 Crear soluciones que resuelvan problemas reales.  
+🏔️ Hacer deporte y tener actividad física.
 
 ---
 
