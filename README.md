@@ -58,9 +58,11 @@
 
 ## 🎓 Educación
 
-Técnico Superior en Desarrollo de Aplicaciones Web  
-Curso Back-End con Node.js & Diseño Web Avanzado  
-Formación musical básica (sí, tengo ritmo también en el código)
+Curso superior de Diseño y desarrollo Web.  
+Curso Back-End con Node.js.
+Desarrollo de aplicaciones con Python.
+Desarrollo de aplicaciones Web.
+Enseñanzas elementales de música (sí, tengo ritmo también en el código).
 
 ---
 
