@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats y Contribuciones
 
-<div align="center" style="display:flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display:flex; justify-content: center; gap: 10px; width:100;">
   <img src="https://github-readme-stats.vercel.app/api?username=Andresmartineez6&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Andresmartineez6&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
@@ -84,7 +84,7 @@ No solo escribo código. Me importa que funcione. Que sea escalable. Que cargue 
 
 ---
 
-## ☕ Bonus: Cosas que me gustan fuera del código
+## ☕ Cosas que me gustan fuera del código
 
 🎵 La música(sí, sé leer partituras).  
 📚 Aprender constantemente y estar al dia de nuevas tecnologias.
