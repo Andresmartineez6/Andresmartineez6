@@ -88,7 +88,6 @@ No solo escribo código. Me importa que funcione. Que sea escalable. Que cargue 
 
 🎵 La música(sí, sé leer partituras).  
 📚 Aprender constantemente y estar al dia de nuevas tecnologias.
-📡 Crear soluciones que resuelvan problemas reales.  
 🏔️ Hacer deporte y tener actividad física.
 
 ---
