@@ -85,9 +85,11 @@ No solo escribo código. Me importa que funcione. Que sea escalable. Que cargue 
 
 ## ☕ Cosas que me gustan fuera del código
 
-🎵 La música(sí, sé leer partituras).  
-📚 Aprender constantemente y estar al dia de nuevas tecnologias.
-🏔️ Hacer deporte y tener actividad física.
+-🎵La música(sí, sé leer partituras).  
+
+-📚Aprender constantemente y estar al dia de nuevas tecnologias.
+
+-🏔️Hacer deporte y tener actividad física.
 
 ---
 
