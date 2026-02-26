@@ -62,17 +62,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresmartineez6&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-<details>
-  <summary><b>🟡 Pac-Man Contribution Graph (ver/ocultar)</b></summary>
-  <br/>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph.svg">
-      <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph.svg">
-    </picture>
-  </p>
-</details>
+<b>🟡 Pac-Man Contribution Graph</b>
+<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
 
