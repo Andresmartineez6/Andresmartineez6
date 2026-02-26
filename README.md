@@ -46,14 +46,6 @@
   <img src="https://img.shields.io/badge/Husky-Git%20Hooks-6CC644?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<details>
-  <summary><b>🏆 Trophies (ver/ocultar)</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Andresmartineez6&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10" />
-  </p>
-</details>
-
 ---
 
 ## 📊 Actividad
@@ -62,7 +54,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresmartineez6&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-<b>🟡 Pac-Man Contribution Graph</b>
 <br/>
 <p align="center">
   <picture>
@@ -77,15 +68,15 @@
 ## 💼 Experiencia Profesional
 
 - **CEO & Fundador – Cabletea S.L.**  
-  *Baza (Granada) · Jun 2024 – Actualidad*  
+  *Baza (Granada)*  
   📡 Creación y gestión de empresa de telecomunicaciones.
 
 - **Desarrollador Web – WordPress / Divi**  
-  *ImpulsaTelecom S.L. · Veranos 2023 y 2024*  
+  *ImpulsaTelecom S.L.*  
   🛠️ Desarrollo y mantenimiento de sitios web.
 
 - **Programador Junior**  
-  *BeeBit Solutions S.L. · Sep 2024 – Dic 2024*  
+  *BeeBit Solutions S.L.*  
   💻 Desarrollo FullStack de un gestor de proyectos.
 
 ---
@@ -107,15 +98,6 @@
 - 🧼 Clean Code  
 - 🧠 SOLID  
 - 🛡️ Seguridad en el desarrollo  
-
----
-
-## 🌍 ¿Por qué trabajar conmigo?
-
-No solo escribo código: busco que sea **entendible**, **rápido**, **escalable** y **mantenible**.  
-Me importan los detalles porque ahí vive la calidad.
-
-> *“Los detalles convierten un proyecto funcional en un buen producto.”*
 
 ---
 
