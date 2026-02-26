@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
 <img align="right" width="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -51,10 +51,6 @@
 ---
 
 ## 📊 Actividad
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Andresmartineez6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresmartineez6&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
