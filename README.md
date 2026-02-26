@@ -1,28 +1,39 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1F2A44&height=160&section=header&text=Andrés%20Lorente&Martinez&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1F2A44&height=160&section=header&text=Andrés%20Lorente%20Martínez&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
+<h1 align="center">¡Hola, soy Andrés Lorente! 👋</h1>
 
-<h1 align="center">¡Hola, soy Andrés Lorente!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Formo+ideas+en+soluciones+digitales.;Software+Engineer+%7C+CEO+de+Cabletea+S.L.;Full-Stack+Developer+apasionado+por+la+innovación." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Convierto+ideas+en+productos+digitales+reales.;Software+Engineer+%7C+CEO+en+Cabletea+S.L.;Full-Stack+Developer+enfocado+en+calidad%2C+performance+y+escalabilidad." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="mailto:andres@cabletea.com">
+    <img src="https://img.shields.io/badge/Email-andres%40cabletea.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Granada%2C%20España-2ea44f?style=for-the-badge" />
+</p>
 
----
+<br/>
+
+<!-- Divider opcional (asegúrate de que exista assets/divider.svg) -->
+<!-- <img width="100%" src="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/main/assets/divider.svg" /> -->
 
 ## 🧠 Sobre mí
 
-- Desarrollador especializado en crear soluciones web.  
-- Fundador de **Cabletea S.L.**.  
-- Fanático del desarrollo software, la informática y la técnologia.  
-- Me encanta construir, liderar y escalar proyectos.
+<img align="right" width="165" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<img align="right" width="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+- Full-Stack Developer construyendo **soluciones web sólidas** y mantenibles.
+- CEO & Fundador de **Cabletea S.L.** (telecomunicaciones).
+- Me gusta llevar proyectos **de la idea a producción** con foco en **claridad, rendimiento y escalabilidad**.
+- Disfruto liderando y tomando decisiones técnicas con mentalidad de producto.
 
-<img src="https://streak-stats.demolab.com?user=Andresmartineez6&theme=tokyonight&hide_border=true" />
+<br/>
 
-<img width="100%" src="https://github.com/andresmartineez6/andresmartineez6/blob/main/assets/divider.svg" />
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Andresmartineez6&theme=tokyonight&hide_border=true" />
+</p>
 
+<br/>
 
 ## 🧰 Tech Stack
 
@@ -34,90 +45,97 @@
   <img src="https://skillicons.dev/icons?i=vitest,eslint,prettier,jest" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Andresmartineez6&theme=tokyonight&no-frame=true&row=1&column=6" />
+<details>
+  <summary><b>🏆 Trophies (ver/ocultar)</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Andresmartineez6&theme=tokyonight&no-frame=true&row=1&column=6" />
+  </p>
+</details>
 
----
+<br/>
 
-## 📊 GitHub Stats y Contribuciones
+## 📊 Actividad
 
-<div align="center" style="display:flex; justify-content: center; gap: 10px; width:100;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Andresmartineez6&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresmartineez6&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
+</p>
 
+<details>
+  <summary><b>🟡 Pac-Man Contribution Graph (ver/ocultar)</b></summary>
+  <br/>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph.svg">
+      <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph.svg">
+    </picture>
+  </p>
+</details>
 
-<h2>🟡 Pac-Man Contribution Graph</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Andresmartineez6/Andresmartineez6/output/pacman-contribution-graph.svg">
-</picture>
-
-
----
+<br/>
 
 ## 💼 Experiencia Profesional
 
 - **CEO & Fundador – Cabletea S.L.**  
-  *Baza (Granada) – Desde Junio 2024*  
-  📡 Creación y gestión de mi empresa de telecomunicaciones.
+  *Baza (Granada) · Jun 2024 – Actualidad*  
+  📡 Creación y gestión de empresa de telecomunicaciones (operaciones + tecnología).
 
 - **Desarrollador Web – WordPress / Divi**  
-  *ImpulsaTelecom S.L. – Veranos 2023 y 2024*  
-  🛠️ Desarrollo de sitios web.
+  *ImpulsaTelecom S.L. · Veranos 2023 y 2024*  
+  🛠️ Desarrollo y mantenimiento de sitios web.
 
 - **Programador Junior**  
-  *BeeBit Solutions S.L. – Sep. a Dic. 2024*  
-  💻 Desarrollo de un gestor de Proyectos.
+  *BeeBit Solutions S.L. · Sep 2024 – Dic 2024*  
+  💻 Desarrollo de un gestor de proyectos.
 
----
+<br/>
 
 ## 🎓 Educación
 
-Curso superior de Diseño y desarrollo Web.  
-Curso Back-End con Node.js.
-Desarrollo de aplicaciones con Python.
-Desarrollo de aplicaciones Web.
-Enseñanzas elementales de música (sí, tengo ritmo también en el código).
+- Diseño y Desarrollo Web  
+- Back-End con Node.js  
+- Desarrollo de aplicaciones con Python  
+- Desarrollo de aplicaciones Web  
+- Música (sí, también tengo ritmo… y no solo en los commits)
 
----
+<br/>
 
-## 🧠 Principios que aplico
+## 🧠 Principios
 
-- 🧱 Arquitectura Hexagonal
-- 📦 MVC
-- 🧼 Clean Code
-- 🧠 Principios SOLID
-- 🛡️ Seguridad en el desarrollo
+- 🧱 Arquitectura Hexagonal  
+- 📦 MVC  
+- 🧼 Clean Code  
+- 🧠 SOLID  
+- 🛡️ Seguridad en el desarrollo  
 
----
+<br/>
 
 ## 🌍 ¿Por qué trabajar conmigo?
 
-No solo escribo código. Me importa que funcione. Que sea escalable. Que cargue rápido. Que se entienda. Que se mantenga.
+No solo escribo código: busco que sea **entendible**, **rápido**, **escalable** y **mantenible**.  
+Me importan los detalles porque ahí vive la calidad.
 
-> *"La diferencia entre un proyecto terminado y un producto perfecto está en los detalles."*
+> *“Los detalles convierten un proyecto funcional en un buen producto.”*
 
----
+<br/>
 
-## ☕ Cosas que me gustan fuera del código
+## ☕ Fuera del código
 
--🎵La música(sí, sé leer partituras).  
+- 🎵 Música (leo partituras)
+- 📚 Aprender y estar al día
+- 🏔️ Deporte y actividad física
 
--📚Aprender constantemente y estar al dia de nuevas tecnologias.
-
--🏔️Hacer deporte y tener actividad física.
-
----
+<br/>
 
 ## 📬 ¿Conectamos?
 
-<div align="center">
-  <a href="mailto:andres@cabletea.com"><img src="https://img.shields.io/badge/📧%20Email-andres@cabletea.com-red?style=for-the-badge"></a>
-</div>
-
----
+<p align="center">
+  <a href="mailto:andres@cabletea.com">
+    <img src="https://img.shields.io/badge/📧%20Email-andres@cabletea.com-red?style=for-the-badge">
+  </a>
+</p>
