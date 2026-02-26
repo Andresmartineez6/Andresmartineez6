@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1F2A44&height=160&section=header&text=Andrés%20Lorente&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1F2A44&height=160&section=header&text=Andrés%20Lorente&Martinez&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 
 <h1 align="center">¡Hola, soy Andrés Lorente!</h1>
