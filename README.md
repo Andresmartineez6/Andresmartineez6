@@ -40,6 +40,12 @@
   <img src="https://skillicons.dev/icons?i=vitest,eslint,prettier,jest" />
 </p>
 
+<p align="center">
+  <sub>
+    También utilizo: <b>Swagger</b> · <b>Mermaid</b> · <b>Husky</b>
+  </sub>
+</p>
+
 <details>
   <summary><b>🏆 Trophies (ver/ocultar)</b></summary>
   <br/>
