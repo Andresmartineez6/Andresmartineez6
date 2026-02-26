@@ -3,7 +3,7 @@
 <h1 align="center">¿Hablamos?</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Convierto+ideas+en+productos+digitales+reales.;Software+Engineer+%7C+CEO+en+Cabletea+S.L.;Full-Stack+Developer+enfocado+en+calidad%2C+performance+y+escalabilidad." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Convierto+ideas+en+productos+digitales+reales.;Software+Engineer+%7C+CEO+en+Cabletea+S.L;Full-Stack+Developer+enfocado+en+calidad%2C+y+escalabilidad." alt="Typing SVG" />
 </p>
 
 <p align="center">
