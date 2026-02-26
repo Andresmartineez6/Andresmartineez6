@@ -41,16 +41,16 @@
 </p>
 
 <p align="center">
-  <sub>
-    También utilizo: <b>Swagger</b> · <b>Mermaid</b> · <b>Husky</b>
-  </sub>
+  <img src="https://img.shields.io/badge/Swagger-API-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mermaid-Diagrams-FF3670?style=flat-square" />
+  <img src="https://img.shields.io/badge/Husky-Git%20Hooks-6CC644?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <details>
   <summary><b>🏆 Trophies (ver/ocultar)</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Andresmartineez6&theme=tokyonight&no-frame=true&row=1&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Andresmartineez6&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10" />
   </p>
 </details>
 
